@@ -722,7 +722,7 @@ section {
 
 
 .events {
-  background: url(../assets/img/eventsbackground.png) center center no-repeat;
+  background: url(../img/eventsbackground.png) center center no-repeat;
   background-size: cover;
   position: relative;
 }
